@@ -13,4 +13,3 @@ I'm a second year graduate student from [State Key Laboratory of Information Eng
 
 You can find my CV here: [Guangyue Li's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](guangyueli@whu.edu.cn) / [Github](https://github.com/Chicory-ggg) / [Wechat](../images/wechat.jpg)
