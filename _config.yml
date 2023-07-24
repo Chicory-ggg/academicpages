@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Guangyue Li / Homepage"
+title                    : "Guangyue Li's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Guangyue Li"
 description              : &description "a second year graduate student from Wuhan University"
-url                      : https://chicory-ggg.github.io/academicpages/
+url                      : "https://chicory-ggg.github.io/academicpages"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Chicory-ggg/academicpages"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
