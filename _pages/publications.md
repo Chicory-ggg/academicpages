@@ -18,12 +18,12 @@ Lastest Update: 31rd July 2023&nbsp;
  <br> IEEE Transactions on Intelligent Transportation Systems, 2023  IF = 8.5, CiteScore = 11.6
  <br> Status: **Under Review**
 
-- [Combine-Net: An Improved Filter Pruning Algorithm.](/files/information-12-00264-v3.pdf)
+- [Combine-Net: An Improved Filter Pruning Algorithm.](homepage/files/information-12-00264-v3.pdf)
  <br> Jinghan Wang, **Guangyue Li***, Wenzhao Zhang
  <br> Information, 2021; 12(7):264, IF = 3.1, CiteScore = 5.8
  <br> DOI: [https://doi.org/10.3390/info12070264](https://doi.org/10.3390/info12070264)
 
 ## Competition Paper
 
-- [Reshape the Crowning Glory of Maasai Mara](/files/information-12-00264-v3.pdf)<br>Huazu Zhang, **Guangyue Li**, Pangyin Li <br> 19th China Graduate Mathematical Modeling Competition of "Huawei Cup” <br>**Second Prize** (Top 13% of all 17970 paper).<br>
+- [Reshape the Crowning Glory of Maasai Mara](homepage/files/information-12-00264-v3.pdf)<br>Huazu Zhang, **Guangyue Li**, Pangyin Li <br> 19th China Graduate Mathematical Modeling Competition of "Huawei Cup” <br>**Second Prize** (Top 13% of all 17970 paper).<br>
 
