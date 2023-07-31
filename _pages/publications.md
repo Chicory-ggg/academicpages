@@ -25,5 +25,8 @@ Lastest Update: 31rd July 2023&nbsp;
 
 ## Competition Paper
 
-- [Scientific Management of Daily Necessities During the COVID-19 Pandemic (in Chinese)]([../homepage/files/](https://chicory-ggg.github.io/homepage/files/F22938880001.pdf)<br>Huazu Zhang, **Guangyue Li**, Pangyin Li <br> 19th China Graduate Mathematical Modeling Competition of "Huawei Cup” <br>**Second Prize** (Top 13% of all 17970 paper).<br>
+- [Scientific Management of Daily Necessities During the COVID-19 Pandemic (in Chinese)](https://chicory-ggg.github.io/homepage/files/F22938880001.pdf)
+  <br>Huazu Zhang, **Guangyue Li**, Pangyin Li
+  <br> 19th China Graduate Mathematical Modeling Competition of "Huawei Cup”
+  <br>**Second Prize** (Top 13% of all 17970 paper).
 
