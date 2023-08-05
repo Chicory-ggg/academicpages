@@ -21,7 +21,9 @@ You can find [my Resume](../homepage/files/lgycv.pdf) here.
 # Research Interests
 - Spatio-temporal Data Mining
 - Deep Learning
+- Geography Information Science
 - GeoAI
+- Intelligent Transportation System
 
 My current research focuses on practical problems that artificial intelligence faces in spatio-temporal data mining. My interests are on the **Deep Learning** and its applications in **Geography Information Science**. In a word, advanced technologies like DL and GIS positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 <br>
