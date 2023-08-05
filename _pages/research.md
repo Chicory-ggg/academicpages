@@ -4,7 +4,7 @@ title: "Researches"
 permalink: /research/
 author_profile: true
 ---
-Lastest Update: 31rd July 2023&nbsp; 
+Lastest Update: 5th August 2023&nbsp; 
 
 ## Journal Paper
 
