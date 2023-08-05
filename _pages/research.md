@@ -1,33 +1,25 @@
 ---
 layout: archive
-title: "Researches"
+title: "Research Projects"
 permalink: /research/
 author_profile: true
 ---
 Lastest Update: 5th August 2023&nbsp; 
 
-## Journal Paper
+## Integrated and Fine-grained Traffic Forecasting for Road Segments and Intersection Turns
 
-- Towards integrated and fine-grained traffic forecasting: A spatio-temporal heterogeneous graph transformer approach
- <br> **Guangyue Li**, Zilong Zhao, Xiaogang Guo, Luliang Tang*, Huazu Zhang, Jinghan Wang
- <br>Information Fusion, 2023,  **IF = 18.6**, CiteScore = 38.6
- <br> Status: **Major Revision**
+- Define a *Heterogeneous Road network Graph (HRG)* to comprehensively represent the topological structure of the complete traffic network, incorporating different types of nodes and edges to depict roads and turns, as well as their synergistic relationships.
+- Developed a *Heterogeneous Spatial Embedding (HSE)* module to characterize the heterogeneous road network information from attributes, significance, and relevance. Leveraging HSE, spatial transformer can effectively explore the intricate spatial correlations.
+- Proposed an *Adaptive Soft Threshold (AST)* module to alleviate the influence of high temporal fluctuation. Integrated with the AST, the proposed temporal transformer enhanced its capacity to capture complex temporal correlations in the presence of noise.
+  
+<center>
+<img src="/images/STHG1.png">
+</center>
+<center>
+<img src="/images/STHG2.png">
+</center>
 
-- Towards complex urban traffic forecasting: A fully attentional approach enhanced by graph representation
- <br> **Guangyue Li**, Zilong Zhao, Yang Chen, Luliang Tang*, Jinghan Wang, Xu Chu, Chaokui Li 
- <br> IEEE Transactions on Intelligent Transportation Systems, 2023  IF = 8.5, CiteScore = 11.6
- <br> Status: **Under Review**
 
-- [Combine-Net: An Improved Filter Pruning Algorithm.](https://chicory-ggg.github.io/homepage/files/information-12-00264-v3.pdf)
- <br> Jinghan Wang, **Guangyue Li***, Wenzhao Zhang
- <br> Information, 2021; 12(7):264, IF = 3.1, CiteScore = 5.8
- <br> DOI: [https://doi.org/10.3390/info12070264](https://doi.org/10.3390/info12070264)
 
-## Competition Paper
-
-- [Scientific Management of Daily Necessities During the COVID-19 Pandemic (in Chinese)](https://chicory-ggg.github.io/homepage/files/F22938880001.pdf)
-  <br>Huazu Zhang, **Guangyue Li**, Pangyin Li
-  <br> 19th China Graduate Mathematical Modeling Competition of "Huawei Cup”
-  <br>**Second Prize** (Top 13% of all 17970 paper).
 
 
