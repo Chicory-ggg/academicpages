@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Lastest Update: 31rd July 2023&nbsp; 
+Lastest Update: 5th August 2023&nbsp; 
 
 ## Journal Paper
 
@@ -15,13 +15,23 @@ Lastest Update: 31rd July 2023&nbsp;
 
 - Towards complex urban traffic forecasting: A fully attentional approach enhanced by graph representation
  <br> **Guangyue Li**, Zilong Zhao, Yang Chen, Luliang Tang*, Jinghan Wang, Xu Chu, Chaokui Li 
- <br> IEEE Transactions on Intelligent Transportation Systems, 2023  IF = 8.5, CiteScore = 11.6
+ <br> IEEE Transactions on Intelluigent Transportation Systems, 2023  IF = 8.5, CiteScore = 11.6
  <br> Status: **Under Review**
 
 - [Combine-Net: An Improved Filter Pruning Algorithm.](https://chicory-ggg.github.io/homepage/files/information-12-00264-v3.pdf)
  <br> Jinghan Wang, **Guangyue Li***, Wenzhao Zhang
  <br> Information, 2021; 12(7):264, IF = 3.1, CiteScore = 5.8
  <br> DOI: [https://doi.org/10.3390/info12070264](https://doi.org/10.3390/info12070264)
+
+- Spatial Co-location Pattern Mining Based on Graph Structure
+ <br> Jinghan Wang, Tinghua Ai*, Hao Wu, Haijiang Xu, **Guangyue Li**
+ <br> Acta Geodaetica et Cartographica Sinica, 2023, EI, CiteScore = 2.4
+ <br> Status: **Major Revision**
+
+- Identifying Critical Urban Intersections from a Fine-grained Spatio-Temporal Perspective
+ <br> Zilong Zhao, Luliang Tang*, Xue Yang, Huazu Zhang, **Guangyue Li**, Qingquan Li
+ <br> Travel Behaviour and Society, 2023, IF = 5.2, CiteScore = 9.3
+ <br> Status: **Major Revision**
 
 ## Competition Paper
 
