@@ -24,7 +24,7 @@ Lastest Update: 5th August 2023&nbsp;
 </center>
 
 <center>
-<img src="/homepage/images/STHG2.png",width = "150" height = "300">
+<img src="/homepage/images/STHG2.png",width = "150", height = "300">
 </center>
 
 ## Complex Urban Traffic Forecasting based on Graph Representation and Deep Learning
