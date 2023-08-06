@@ -20,7 +20,7 @@ Lastest Update: 5th August 2023&nbsp;
 </center>
 
 <center>
-<font color='red'><font size=14>The proposed STHGFomer</font></font>
+<font color='red'><font size=10>The proposed STHGFomer</font></font>
 </center>
 
 <center>
