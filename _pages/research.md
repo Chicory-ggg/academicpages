@@ -16,10 +16,12 @@ Lastest Update: 5th August 2023&nbsp;
 <img src="/homepage/images/STHG1.png">
 </center>
 <center>
-<img src="/homepage//images/STHG2.png">
-</center>
-<center>
 <img src="/homepage//images/STHG3.png">
+</center>
+
+<center>
+<font color='red'>The proposed STHGFomer</font>
+<img src="/homepage/images/STHG2.png",width = "150" height = "300">
 </center>
 
 ### Complex Urban Traffic Forecasting based on Graph Representation and Deep Learning
@@ -28,6 +30,12 @@ Lastest Update: 5th August 2023&nbsp;
 - Develop a spatial attention to uncover the relationship between any pair of roads, dynamically modeling the geo-parcel-based traffic pattern correlations that do not depend on the road network.
 - Design a multi-scale residual perception (MRP) based on shortcut connections to reconcile the competing influences of long-term periodicity and short-term variability, placing an emphasis on the fluctuating traffic states.
 
+<center>
+<img src="/homepage/images/FAST1.png">
+</center>
+<center>
+<img src="/homepage/images/FAST2.png">
+</center>
 
 
 
