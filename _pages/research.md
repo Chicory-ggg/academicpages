@@ -20,11 +20,11 @@ Lastest Update: 5th August 2023&nbsp;
 </center>
 
 <center>
-<font color='red'><font size=5>The proposed STHGFomer</font></font>
+<img src="/homepage/images/STHG2.png" class="floatpic" width="300" height="600">
 </center>
 
 <center>
-<img src="/homepage/images/STHG2.png" class="floatpic" width="300" height="600">
+<font color='red'><font size=5>The proposed STHGFomer</font></font>
 </center>
 
 ## Complex Urban Traffic Forecasting based on Graph Representation and Deep Learning
