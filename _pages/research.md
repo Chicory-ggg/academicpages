@@ -6,7 +6,7 @@ author_profile: true
 ---
 Lastest Update: 5th August 2023&nbsp; 
 
-### Integrated and Fine-grained Traffic Forecasting for Road Segments and Intersection Turns
+## Integrated and Fine-grained Traffic Forecasting for Road Segments and Intersection Turns
 
 - Define a *Heterogeneous Road network Graph (HRG)* to comprehensively represent the topological structure of the complete traffic network, incorporating different types of nodes and edges to depict roads and turns, as well as their synergistic relationships.
 - Develope a *Heterogeneous Spatial Embedding (HSE)* module to characterize the heterogeneous road network information from attributes, significance, and relevance. Leveraging HSE, *Spatial Transformer (SpaFormer)* can effectively explore the intricate spatial correlations.
@@ -21,10 +21,13 @@ Lastest Update: 5th August 2023&nbsp;
 
 <center>
 <font color='red'>The proposed STHGFomer</font>
+</center>
+
+<center>
 <img src="/homepage/images/STHG2.png",width = "150" height = "300">
 </center>
 
-### Complex Urban Traffic Forecasting based on Graph Representation and Deep Learning
+## Complex Urban Traffic Forecasting based on Graph Representation and Deep Learning
 
 - Propose significance encoding and relevancy encoding to compensate the attention mechanism’s deficiency in complex road network representation, characterizing urban traffic networks from local and global perspectives.
 - Develop a spatial attention to uncover the relationship between any pair of roads, dynamically modeling the geo-parcel-based traffic pattern correlations that do not depend on the road network.
