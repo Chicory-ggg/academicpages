@@ -23,15 +23,16 @@ Lastest Update: 5th August 2023&nbsp;
  <br> Information, 2021; 12(7):264, IF = 3.1, CiteScore = 5.8
  <br> DOI: [https://doi.org/10.3390/info12070264](https://doi.org/10.3390/info12070264)
 
+- Identifying Critical Urban Intersections from a Fine-grained Spatio-Temporal Perspective
+ <br> Zilong Zhao, Luliang Tang*, Xue Yang, Huazu Zhang, **Guangyue Li**, Qingquan Li
+ <br> Travel Behaviour and Society, 2023, IF = 5.2, CiteScore = 9.3
+ <br> Status: **Accept**
+
 - Spatial Co-location Pattern Mining Based on Graph Structure
  <br> Jinghan Wang, Tinghua Ai*, Hao Wu, Haijiang Xu, **Guangyue Li**
  <br> Acta Geodaetica et Cartographica Sinica, 2023, EI, CiteScore = 2.4
  <br> Status: **Major Revision**
 
-- Identifying Critical Urban Intersections from a Fine-grained Spatio-Temporal Perspective
- <br> Zilong Zhao, Luliang Tang*, Xue Yang, Huazu Zhang, **Guangyue Li**, Qingquan Li
- <br> Travel Behaviour and Society, 2023, IF = 5.2, CiteScore = 9.3
- <br> Status: **Major Revision**
 
 ## Competition Paper
 
