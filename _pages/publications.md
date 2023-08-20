@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Lastest Update: 9th August 2023&nbsp; 
+Lastest Update: 20th August 2023&nbsp; 
 
 ## Journal Paper
 
@@ -18,15 +18,15 @@ Lastest Update: 9th August 2023&nbsp;
  <br> IEEE Transactions on Intelluigent Transportation Systems, 2023  IF = 8.5, CiteScore = 11.6
  <br> Status: **Under Review**
 
-- [Combine-Net: An Improved Filter Pruning Algorithm.](https://chicory-ggg.github.io/homepage/files/information-12-00264-v3.pdf)
+- [Combine-Net: An Improved Filter Pruning Algorithm](https://chicory-ggg.github.io/homepage/files/information-12-00264-v3.pdf)
  <br> Jinghan Wang, **Guangyue Li***, Wenzhao Zhang
  <br> Information, 2021; 12(7):264, IF = 3.1, CiteScore = 5.8
  <br> DOI: [https://doi.org/10.3390/info12070264](https://doi.org/10.3390/info12070264)
 
-- Identifying Critical Urban Intersections from a Fine-grained Spatio-Temporal Perspective
+- [Identifying Critical Urban Intersections from a Fine-grained Spatio-Temporal Perspective](​https://doi.org/10.1016/j.tbs.2023.100649)
  <br> Zilong Zhao, Luliang Tang*, Xue Yang, Huazu Zhang, **Guangyue Li**, Qingquan Li
  <br> Travel Behaviour and Society, 2023, IF = 5.2, CiteScore = 9.3
- <br> Status: **Accept**
+ <br> DOI: [https://doi.org/10.3390/info12070264](​https://doi.org/10.1016/j.tbs.2023.100649)
 
 - Spatial Co-location Pattern Mining Based on Graph Structure
  <br> Jinghan Wang, Tinghua Ai*, Hao Wu, Haijiang Xu, **Guangyue Li**
