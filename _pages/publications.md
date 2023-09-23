@@ -4,13 +4,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Lastest Update: 20th August 2023&nbsp; 
+Lastest Update: 23th September 2023&nbsp; 
 
 ## Journal Paper
 
 - Towards integrated and fine-grained traffic forecasting: A spatio-temporal heterogeneous graph transformer approach
  <br> **Guangyue Li**, Zilong Zhao, Xiaogang Guo, Luliang Tang*, Huazu Zhang, Jinghan Wang
- <br>Information Fusion, 2023,  **IF = 18.6**, CiteScore = 38.6
+ <br>Information Fusion, 2023, **IF = 18.6**, CiteScore = 38.6
  <br> Status: **Major Revision**
 
 - Towards complex urban traffic forecasting: A fully attentional approach enhanced by graph representation
@@ -31,7 +31,12 @@ Lastest Update: 20th August 2023&nbsp;
 - Spatial Co-location Pattern Mining Based on Graph Structure
  <br> Jinghan Wang, Tinghua Ai*, Hao Wu, Haijiang Xu, **Guangyue Li**
  <br> Acta Geodaetica et Cartographica Sinica, 2023, EI, CiteScore = 2.4
- <br> Status: **Major Revision**
+ <br> Status: **Accept**
+
+- An Urban Co-location Detection Method Based on Graph Growth Ideas
+ <br> Jinghan Wang, Tinghua Ai*, **Guangyue Li**, Hao Wu, Haijiang Xu
+ <br> Resources, Conservation and Recycling, 2023, **IF = 13.2**, CiteScore = 20.3
+ <br> Status: **Under Review**
 
 
 ## Competition Paper
