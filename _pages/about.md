@@ -12,11 +12,14 @@ You can find [my Resume](../homepage/files/lgycv.pdf) here.
 <br>
 
 # Academic Background
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!**
-
 - **Sep 2018 - June 2022:** China University of Geosciences (BEng)
 - **Sep 2022 - June 2024:** Wuhan University (ME) 
 <br>
+
+# News 
+**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!**
+
+**<font color='yellow'>[Awards]</font> Our team ranks *Top 10* in the [2023 HuMob Challenge](https://connection.mit.edu/humob-challenge-2023)! We will present at [ACM SIGSPATIAL](https://sigspatial2023.sigspatial.org/) in Hamburg, Germany.**
 
 # Research Interests
 - Spatio-temporal Data Mining
