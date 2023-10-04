@@ -11,7 +11,7 @@ Lastest Update: 23th September 2023&nbsp;
 - Towards integrated and fine-grained traffic forecasting: A spatio-temporal heterogeneous graph transformer approach
  <br> **Guangyue Li**, Zilong Zhao, Xiaogang Guo, Luliang Tang*, Huazu Zhang, Jinghan Wang
  <br>Information Fusion, 2023, **IF = 18.6**, CiteScore = 38.6
- <br> Status: **Major Revision**
+ <br> Status: **Accept**
 
 - Towards complex urban traffic forecasting: A fully attentional approach enhanced by graph representation
  <br> **Guangyue Li**, Zilong Zhao, Yang Chen, Luliang Tang*, Jinghan Wang, Xu Chu, Chaokui Li 
