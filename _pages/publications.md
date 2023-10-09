@@ -4,14 +4,14 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Lastest Update: 23th September 2023&nbsp; 
+Lastest Update: 23th October 2023&nbsp; 
 
 ## Journal Paper
 
-- Towards integrated and fine-grained traffic forecasting: A spatio-temporal heterogeneous graph transformer approach
+- [Towards integrated and fine-grained traffic forecasting: A spatio-temporal heterogeneous graph transformer approach](https://www.sciencedirect.com/science/article/pii/S1566253523003792#tbl0005)
  <br> **Guangyue Li**, Zilong Zhao, Xiaogang Guo, Luliang Tang*, Huazu Zhang, Jinghan Wang
  <br>Information Fusion, 2023, **IF = 18.6**, CiteScore = 38.6
- <br> Status: **Accept**
+ <br> DOI: [https://doi.org/10.3390/info12070264](https://doi.org/10.1016/j.inffus.2023.102063)]
 
 - Towards complex urban traffic forecasting: A fully attentional approach enhanced by graph representation
  <br> **Guangyue Li**, Zilong Zhao, Yang Chen, Luliang Tang*, Jinghan Wang, Xu Chu, Chaokui Li 
