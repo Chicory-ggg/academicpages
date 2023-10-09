@@ -21,7 +21,7 @@ You can find [my Resume](../homepage/files/lgycv.pdf) here.
 
 **<font color='blue'>[Paper]</font> Our work ["Towards integrated and fine-grained traffic forecasting: A spatio-temporal heterogeneous graph transformer approach"](https://www.sciencedirect.com/science/article/abs/pii/S1566253523003792) has been published in [Information Fusion (if=18.6)](https://www.sciencedirect.com/journal/information-fusion)!**
 
-**<font color='green'>[Awards]</font> Our team ranks *Top 10* in the [2023 HuMob Challenge](https://connection.mit.edu/humob-challenge-2023)! We will present at [ACM SIGSPATIAL](https://sigspatial2023.sigspatial.org/) in Hamburg, Germany.**
+**<font color='green'>[Award]</font> Our team ranks *Top 10* in the [2023 HuMob Challenge](https://connection.mit.edu/humob-challenge-2023)! We will present at [ACM SIGSPATIAL](https://sigspatial2023.sigspatial.org/) in Hamburg, Germany.**
 
 # Research Interests
 - Spatio-temporal Data Mining
