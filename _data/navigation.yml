@@ -5,9 +5,6 @@ main:
     
   - title: "Publications"
     url: /publications/
-
-  - title: "Researches"
-    url: /research/    
         
   - title: "CV"
     url: /files/lgycv.pdf
