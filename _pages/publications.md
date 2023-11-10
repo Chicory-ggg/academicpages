@@ -35,7 +35,7 @@ Lastest Update: 23th October 2023&nbsp;
 
 - An Urban Co-location Detection Method Based on Graph Growth Ideas
  <br> Jinghan Wang, Tinghua Ai*, **Guangyue Li**, Hao Wu, Haijiang Xu
- <br> Computers, Environment and Urban Systems, 2023, IF = 6.8, CiteScore = 12.2
+ <br> Geo-spatial Information Science, 2023, IF = 6, CiteScore = 7.5
  <br> Status: **Under Review**
 
 ## Conference Paper
@@ -43,7 +43,7 @@ Lastest Update: 23th October 2023&nbsp;
 - Large-Scale Human Mobility Prediction Based on Periodic Attenuation and Local Feature Match
  <br> Xiaogang Guo, **Guangyue Li**, Zhixing Chen, Huazu Zhang, Yulin Ding, Jinghan Wang, Zilong Zhao, Luliang Tang
  <br> [HuMob-Challenge '23](https://connection.mit.edu/humob-challenge-2023), [ACM SIGSPATIAL 2023](https://sigspatial2023.sigspatial.org/)
- <br> Status: **Accept**
+ <br>  DOI: [https://doi.org/10.1145/3615894.3628505](https://doi.org/10.1145/3615894.3628505)
 
 ## Competition Paper
 
