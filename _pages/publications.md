@@ -31,13 +31,12 @@ Lastest Update: 23th November 2023&nbsp;
 - Spatial Co-location Pattern Mining Based on Graph Structure
  <br> Jinghan Wang, Tinghua Ai*, Hao Wu, Haijiang Xu, **Guangyue Li**
  <br> Acta Geodaetica et Cartographica Sinica, 2023, EI, CiteScore = 2.4
- <br> Status: **Accept**
+ <br> [http://kns.cnki.net/kcms/detail/11.2089.P.20231118.1411.002.html.](https://kns.cnki.net/kcms2/article/abstract?v=O0ap_2NIr09RBAC5jqKXs3FGpzQZjBMiC5EoY7C99iN87Zfw2jJ53q1IqnSEv4_ev0Oglt2IIrxDE3s_dtKg2hrDlILX8XTKpr6b6ud5B_ePB7ccqwHVMGggOx8bgRKRe_-RMUT5lUWR0Lc6FRgXJnJBmaCpPDTx&uniplatform=NZKPT&language=CHS)
 
 - An Urban Co-location Detection Method Based on Graph Growth Ideas
  <br> Jinghan Wang, Tinghua Ai*, **Guangyue Li**, Hao Wu, Haijiang Xu
  <br> Geo-spatial Information Science, 2023, IF = 6, CiteScore = 7.5
- <br> [http://kns.cnki.net/kcms/detail/11.2089.P.20231118.1411.002.html.](https://kns.cnki.net/kcms2/article/abstract?v=O0ap_2NIr09RBAC5jqKXs3FGpzQZjBMiC5EoY7C99iN87Zfw2jJ53q1IqnSEv4_ev0Oglt2IIrxDE3s_dtKg2hrDlILX8XTKpr6b6ud5B_ePB7ccqwHVMGggOx8bgRKRe_-RMUT5lUWR0Lc6FRgXJnJBmaCpPDTx&uniplatform=NZKPT&language=CHS)
-
+ <br> Status: Under Review
 
 ## Conference Paper
 
