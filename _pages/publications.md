@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Lastest Update: 23th October 2023&nbsp; 
+Lastest Update: 23th November 2023&nbsp; 
 
 ## Journal Paper
 
@@ -36,7 +36,8 @@ Lastest Update: 23th October 2023&nbsp;
 - An Urban Co-location Detection Method Based on Graph Growth Ideas
  <br> Jinghan Wang, Tinghua Ai*, **Guangyue Li**, Hao Wu, Haijiang Xu
  <br> Geo-spatial Information Science, 2023, IF = 6, CiteScore = 7.5
- <br> Status: **Under Review**
+ <br> [http://kns.cnki.net/kcms/detail/11.2089.P.20231118.1411.002.html.](https://kns.cnki.net/kcms2/article/abstract?v=O0ap_2NIr09RBAC5jqKXs3FGpzQZjBMiC5EoY7C99iN87Zfw2jJ53q1IqnSEv4_ev0Oglt2IIrxDE3s_dtKg2hrDlILX8XTKpr6b6ud5B_ePB7ccqwHVMGggOx8bgRKRe_-RMUT5lUWR0Lc6FRgXJnJBmaCpPDTx&uniplatform=NZKPT&language=CHS)
+
 
 ## Conference Paper
 
