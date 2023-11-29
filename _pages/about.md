@@ -25,7 +25,7 @@ You can find [my Resume](../homepage/files/lgycv.pdf) here.
 
 **<font color='orange'>[Report]</font> Our research has been featured on the [State Key Laboratory's official website](https://liesmars.whu.edu.cn/info/1056/11293.htm)!**
 
-**<font color='LightBlue'>[Honor]</font> I receive the distinction of Outstanding Graduate Student at Wuhan University with an academic scholarship!**
+**<font color='DarkBlue'>[Honor]</font> I receive the distinction of Outstanding Graduate Student at Wuhan University with an academic scholarship!**
 
 # Research Interests
 - Spatio-temporal Data Mining
